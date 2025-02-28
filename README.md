@@ -1,3 +1,7 @@
-# Nitro starter
+# Image proxy [WIP]
 
-Look at the [nitro quick start](https://nitro.unjs.io/guide#quick-start) to learn more how to get started.
+**Use**
+
+```
+https://example.com/?https://cdnfile.sspai.com/2025/02/25/8f1c68ba1b45d54b994a8ed9361e9785.png
+```
